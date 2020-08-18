@@ -1,0 +1,23 @@
+{
+  "name": "aprixstudios.github.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AprixStudios/aprixstudios.github.org.git"
+  },
+  "author": "AprixStudios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AprixStudios/aprixstudios.github.org/issues"
+  },
+  "homepage": "https://github.com/AprixStudios/aprixstudios.github.org#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
+  }
+}
